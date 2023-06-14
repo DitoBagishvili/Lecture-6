@@ -1,4 +1,216 @@
-h2{
-	font-size: 70px;
-	color: cyan;
+
+body{
+ background: whitesmoke;
+}
+
+header{
+	width: 100%;
+	padding: 15px;
+	position: fixed;
+	z-index: 200;
+	background: cyan;
+}
+
+
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+div{
+	display: inline-block;
+	margin: 0 auto;
+}
+li{
+	display: inline-block;
+	margin-right: 35px;
+}
+
+.container1{
+	width: 1452px;
+}
+
+.home{
+	width: 40px
+	height: 16px;
+	font-weight: 700;
+	position: ;
+}
+.discovery{
+	width: 66px;
+	height: 16px;
+	font-weight: 700;
+}
+.photos{
+	width: 44px;
+	height: 16px;
+	font-weight: 700;
+}
+.contact{
+	width: 50px;
+	height: 16px;
+	font-weight: 700;
+}
+.s-1{
+	margin: 0 auto;
+}
+
+.container2{
+	width: 1452px;
+	margin: 0 auto;
+	margin-top: 93.23px;
+	margin-bottom: 27px;
+}
+h6{
+width: 120px;
+height: 28px;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+}
+.container3{	
+	width: 1452px;
+	margin: 0 auto;
+}
+.img0{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.mshobeli{
+	margin-right: 40px;
+	width: 362px;
+	height: 186px;
+	position: relative;
+}
+.shvili{
+	width: 184px;
+	height: 23px;
+	margin-top: 32px;
+	margin-left: 41;
+	color: white;
+	margin-left: -320px;
+	position: absolute
+}
+.text{
+	color: #8A8787;
+width: 238px;
+height: 36px;
+}
+.p6{
+height: 28px;
+font-weight: 800;
+font-size: 24px;
+line-height: 28px;
+}
+.img7{
+	display: inline-block;
+	width: 758px;
+height: 430px;
+margin-bottom: 52px;
+position: relative;
+}
+.img9{
+	display: inline-block;
+	width: 362px;
+height: 212px;
+margin-left: 45px;
+vertical-align: top;
+}
+.img10{
+	display: inline-block;
+	width: 362px;
+	height: 212px;
+	position: absolute;
+	margin-left: -360px;
+	margin-top: 315px;
+}
+.pa{
+	display: inline-block;
+	position: absolute;
+	margin-left: -480px;
+	margin-top: -275px;
+	color: white;
+	width: 202px;
+	height: 23px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+}
+.last{
+	margin-left: 55px;
+	margin-bottom: 110px;
+}
+.ft{
+	margin-top: 36px;
+	background-color: #243043;
+	width: 1440px;
+height: 201px;
+}
+.li3{display: block;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+margin-left: 100px;
+margin-top: 14px;
+
+}
+.li2{
+	display: block;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+margin-left: 100px;
+margin-top: 59px;
+}
+.li4{
+	display: block;
+	margin-left: 266px;
+	margin-top: -98px;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+
+}
+.li5{
+	display: block;
+	margin-left: 266px;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+margin-top: 14px;
+}
+.li6{
+display: block;
+	margin-left: 417px;
+	margin-top: -98px;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+
+}
+.li7{
+	display: block;
+	margin-left: 417px;
+	font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #818687;
+margin-top: 14px;
+}
+.S{
+	width: 279px;
+	height:20px;
+	margin-left: 599px;
+	margin-top: -98px;
+	font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.geolab{
+	margin-left: 1246px;
 }
